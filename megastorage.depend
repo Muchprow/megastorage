@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1782569632 source:d:\megastorage\megastorage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"compressor.h"
+
+1782569479 source:d:\megastorage\megastorage\compressor.c
+	"compressor.h"
+	<stdlib.h>
+	<string.h>
+
+1782569351 d:\megastorage\megastorage\compressor.h
+	<stdint.h>
+
+1782569343 source:d:\megastorage\megastorage\interface.c
+	"interface.h"
+	<stdio.h>
+	<stdlib.h>
+
+1782382617 d:\megastorage\megastorage\interface.h
+	<windows.h>
+
